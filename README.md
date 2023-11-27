@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning how to code and building up my knowledge base.
 - 🌱 I’m currently learning code through The Odin Project.
 - 💞️ I’m looking to collaborate on projects in the future.
-- 📫 How to reach me: email mtorres115@gmail.com or twitter @miketorres115
+- 📫 How to reach me: email mtorres115@gmail.com 
